@@ -1,0 +1,4 @@
+Process : A process is a object code in middle of execution which is related to some resources.
+	- There can be multiple processes which are executing same program.
+	- There can be multiple processes which are sharing same resources. 
+Note : Linux does not differentiate between a process and a thread.
